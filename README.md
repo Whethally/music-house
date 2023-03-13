@@ -1,3 +1,7 @@
+## Screenshot
+
+![App Screenshot](https://i.imgur.com/vZYzwXC.png)
+
 # **How to run laravel project?**
 ```composer update```
 
